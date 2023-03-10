@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2021 XYZ, Inc._
-git revert 
+git revert © 2022 XYZ, Inc.
